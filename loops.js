@@ -8,5 +8,5 @@ function forLoop (array) {
 
 }
 
-var a = []
+var a = [];
 console.log(forLoop(a))
