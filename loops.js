@@ -5,8 +5,5 @@ function forLoop (array) {
 } else {
   array.push `i am ${i} strange loops.`
 }
-
 }
 
-var a = []
-console.log(forLoop(a))
