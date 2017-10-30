@@ -7,6 +7,3 @@ function forLoop (array) {
 }
 return array
 }
-
-var a = [];
-console.log(forLoop(a))
